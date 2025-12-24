@@ -18,9 +18,7 @@ Views and sends to AccessibilityServices).
 The supplied gradle wrapper and build.gradle file can be used to build the
 Accessibility Test Framework or import the project into Android Studio.
 
-```shell
-$ ./gradlew build
-```
+
 
 ## Sample Usage
 
